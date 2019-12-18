@@ -3,7 +3,7 @@ import socket, threading, time
 shutdown = False
 join = False
 key = 2
-alphEn = 'abcdefghijklmnopqrstuvwxyz:'
+alphEn = 'abcdefghijklmnopqrstuvwxy:'
 
 def receving (name, sock):
     while not shutdown:
