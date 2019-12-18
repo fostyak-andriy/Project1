@@ -1,4 +1,4 @@
-import socket,tim
+import socket,time
 
 #host = socket.gethostbyname(socket.gethostname())
 host = '127.0.0.1'
