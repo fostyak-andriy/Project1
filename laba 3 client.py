@@ -1,4 +1,4 @@
-import socket, threading, time
+import socket, threading, tim
 
 shutdown = False
 join = False
