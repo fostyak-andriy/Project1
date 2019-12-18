@@ -1,5 +1,5 @@
 from tkinter import *
-import rando
+import random
 
 # Щоб було на багато пк потрібна міняти ширину і висоту залежно від моніків
 WIDTH = 1800
